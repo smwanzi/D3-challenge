@@ -6,6 +6,10 @@ body{
   font-family: 'Barlow Condensed' , sans-serif;
   font-size: 20px;
 }
+p {
+  text-align: justify;
+  width:100%;
+}
 
 .header{
   margin-top: 0;
